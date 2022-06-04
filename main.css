@@ -1,0 +1,10 @@
+#world 
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: linear-gradient(#B9C2DB, #C5C0D6, #D0BED2, #D6BDD0, #E3BBCB, #EEB9C7, #EEB9C7, #EDC4C1, #ECD5C9);
+}
+
+/*# sourceMappingURL=main.css.map*/
